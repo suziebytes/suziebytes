@@ -2,6 +2,7 @@
 
 <!--
 **suziebytes/suziebytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github banner](https://user-images.githubusercontent.com/32041993/214496438-4b2cd47d-8690-4568-8c24-ac705fbe9a75.png)
 
 Here are some ideas to get you started:
 
