@@ -8,5 +8,5 @@
 </a>
 
 <a href="https://apps.apple.com/us/app/squat-tracker/id6446610617">
-  <img src="https://github.com/suziebytes/suziebytes/assets/32041993/8c5ff408-7c6b-4326-abbe-51142e3b1557" width="100" />
+  <img src="https://github.com/suziebytes/suziebytes/assets/32041993/8c5ff408-7c6b-4326-abbe-51142e3b1557.png" width="100" />
 </a>
